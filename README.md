@@ -6,4 +6,6 @@ J'apprends à coder en python et me forme en cybersécurité une étape à la fo
 
 ---
 
-sdsfsdf
+### 🧰 Langages et outils
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
+<br />
