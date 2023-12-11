@@ -1,4 +1,4 @@
-### Nicolas Garcia
+### :globe_with_meridians: Nicolas Garcia
 
 **`Débutant en programmation et cybersécurité`**
 
