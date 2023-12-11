@@ -15,8 +15,3 @@
 <br />
 
 #
-
-```mermaid
-  graph TD;
-    Programming-->Cybersecurity;
-    Cybersecurity-->Programming;
