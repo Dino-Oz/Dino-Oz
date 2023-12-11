@@ -9,7 +9,7 @@
 
 ---
 
-### 🧰 Langages et outils
+### 🧰 Langages et outils | Languages and tools
 <img align="left" alt="Python" width="150px" style="padding-right:10px;" src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
 <img align="left" alt="Python" width="120px" style="padding-right:10px;" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <br />
